@@ -60,6 +60,12 @@ npx skills add blader/humanizer --global --agent '*'
 
 This installs Humanizer for every agent the Skills CLI supports, including Gemini CLI, GitHub Copilot, and Windsurf. Leave off `--global` in any command above to install it only in the current project. For an agent the Skills CLI does not know, copy `SKILL.md` into its skill folder.
 
+## Ironclad Insurance adaptation in this fork
+
+This fork adds optional [Ironclad insurance writing guidance](references/ironclad-writing.md) to the existing 26-pattern Humanizer Skill. It keeps insurance facts, limits, exclusions, qualifications, professional-review notices, and brand presentation rules intact while improving readability. The additional rules apply only when writing for Ironclad; personal and unrelated prose uses the original Humanizer behavior.
+
+This is a public fork. Do not commit client records, nonpublic operational details, or unapproved brand assets. Install the repository's root skill for the adapted experience; no MCP server is required.
+
 ## Usage
 
 Call the skill directly:

@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.1.1
+
+- Fork adaptation: added optional Ironclad Insurance writing and public-safe brand guidance without changing the 26 upstream pattern definitions.
+- Updated skill discovery and OpenAI agent metadata to explain conditional insurance-preservation behavior.
+- Preserved the original Humanizer workflow for unrelated and personal prose.
+
 ## 3.1.0
 
 - Added pattern #26 and section F for replies that re-explain context the reader already has (#269). It acts on replies, not standalone writing. 26 patterns total.
