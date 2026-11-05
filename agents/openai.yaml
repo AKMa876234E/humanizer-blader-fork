@@ -1,4 +1,4 @@
 interface:
-  display_name: "Humanizer"
-  short_description: "Make AI-written text sound like the writer"
-  default_prompt: "Use $humanizer to rewrite this text in my voice without changing its facts."
+  display_name: "Humanizer (Ironclad-aware)"
+  short_description: "Natural writing with precise insurance and brand safeguards"
+  default_prompt: "Use $humanizer to rewrite the text in my voice without changing its facts. For Ironclad Insurance writing, preserve policy terms and apply the optional Ironclad guidance."
